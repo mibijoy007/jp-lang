@@ -10,16 +10,16 @@ const Footer = () => {
         <div className='md:p-4 mt-5'>
           <p
             className='mb-1 
-              underline decoration-solid  
+               decoration-solid  
               decoration-sky-500 rounded-md text-xl '>
-            Jp-Lang
+            Explore  Jp-Lang
           </p>
-            <p className='mb-1 
+            {/* <p className='mb-1 
               underline decoration-solid  
               hover:decoration-sky-500 duration-200 rounded-md text-md '>
               Explore
-            </p>
-          <div className='border-l-2 border-white/10'>
+            </p> */}
+          <div className='border-l-2 border-white/30'>
 
 
 
@@ -87,11 +87,11 @@ const Footer = () => {
         <div className='md:p-4 mt-5'>
 
           <p className='mb-1 
-            underline decoration-solid  
+             decoration-solid  
           decoration-sky-500 rounded-md text-xl '>Mohaiminul Islam
           </p>
 
-          <div className=' border-l-2 border-white/10'>
+          <div className=' border-l-2 border-white/30'>
 
 
             <p className='flex  items-center '>
@@ -114,11 +114,11 @@ const Footer = () => {
         <div className='md:p-4 mt-5'>
 
           <p className='mb-1 
-            underline decoration-solid  
+             decoration-solid  
           decoration-sky-500 rounded-md text-xl '>Maksudul Islam
           </p>
 
-          <div className=' border-l-2 border-white/10'>
+          <div className=' border-l-2 border-white/30'>
 
 
             <p className=' '>
